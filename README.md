@@ -23,7 +23,7 @@ Recently, I am studying msa, agile, devops, cloud...
 <img src="https://camo.githubusercontent.com/779f9a01c244fb737d351d3256288537428012c3cc755e70e7c5663afc1b7c01/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d7953514c2d3434373941313f7374796c653d666c6174266c6f676f3d4d7953514c266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/MySQL-4479A1?style=flat&amp;logo=MySQL&amp;logoColor=white" style="max-width:100%;">
 <img src="https://camo.githubusercontent.com/8aa7fdcd3402ea395c3fdbd8c00fe0f6b7be091fcf985556a2b2097847616bc8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6177732d3333333636343f7374796c653d666c61742d737175617265266c6f676f3d616d617a6f6e2d617773266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/aws-333664?style=flat&amp;logo=amazon-aws&amp;logoColor=white" style="max-width:100%;">
 <br/><br/><br/>
-😄Me
+😄**Me**
 <br/>
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:hsb1596321@gmail.com)
 <a target="_blank">
