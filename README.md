@@ -26,7 +26,7 @@ Recently, I am studying msa, agile, devops, cloud...
 😄**Me**
 <br/>
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:hsb1596321@gmail.com)
-<a target="_blank">
+<a href="https://devk0ng.github.io" target="_blank">
 <img src="https://camo.githubusercontent.com/1dfd498a979c2d50880d6ed92c8c31413575063ea3a38df54bba28620e84ba5f/687474703a2f2f696d672e736869656c64732e696f2f62616467652f2d54656368253230626c6f672d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d676974687562266c696e6b3d68747470733a2f2f7a7a737a612e6769746875622e696f2f" style="max-width:100%;">
 </a>
 <a href="https://drive.google.com/file/d/1BSAZIOHPEKPG25Wvd3BgFnTNyuMUTcx5/view?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/-portfolio-blue?style=flat"/></a>
