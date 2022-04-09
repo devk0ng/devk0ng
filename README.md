@@ -6,7 +6,7 @@
 I'm backend developer using spring boot, jpa, database, docker ...  <br/>
 Recently, I am studying msa, agile, devops, cloud...
 <br/><br/><br/>
-🛠**Techs that i've used at least once**
+<!-- 🛠**Techs that i've used at least once**
 <br/>
 <img src="https://camo.githubusercontent.com/372dfe5550512c1b2e7e3649ea92a5cbadeec44a51c3b2bf822fe2a7a22c13d7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176612d3030373339363f7374796c653d666c61742d737175617265266c6f676f3d4a617661266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Java-007396?style=flat&amp;logo=Java&amp;logoColor=white" style="max-width:100%;">
 <img src="https://camo.githubusercontent.com/89b52efeb1444c107d4e810705983737057a6dbaf44dd97977abb35ffa92dda9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f432b2b2d3030353939433f7374796c653d666c61742d737175617265266c6f676f3d43253242253242266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/C++-00599C?style=flat&amp;logo=C%2B%2B&amp;logoColor=white" style="max-width:100%;">
@@ -22,7 +22,7 @@ Recently, I am studying msa, agile, devops, cloud...
 <img src="https://camo.githubusercontent.com/6006dacfca34559af33ccdd157a2e4e6beacd0452a1e6da73f31a96b176720ba/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4f7261636c652d4638303030303f7374796c653d666c6174266c6f676f3d4f7261636c65266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Oracle-F80000?style=flat&amp;logo=Oracle&amp;logoColor=white" style="max-width:100%;">
 <img src="https://camo.githubusercontent.com/779f9a01c244fb737d351d3256288537428012c3cc755e70e7c5663afc1b7c01/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d7953514c2d3434373941313f7374796c653d666c6174266c6f676f3d4d7953514c266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/MySQL-4479A1?style=flat&amp;logo=MySQL&amp;logoColor=white" style="max-width:100%;">
 <img src="https://camo.githubusercontent.com/8aa7fdcd3402ea395c3fdbd8c00fe0f6b7be091fcf985556a2b2097847616bc8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6177732d3333333636343f7374796c653d666c61742d737175617265266c6f676f3d616d617a6f6e2d617773266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/aws-333664?style=flat&amp;logo=amazon-aws&amp;logoColor=white" style="max-width:100%;">
-<br/><br/><br/>
+<br/><br/><br/> -->
 😄**Me**
 <br/>
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:hsb1596321@gmail.com)
