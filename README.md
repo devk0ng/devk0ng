@@ -3,8 +3,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdevk0ng&count_bg=%23A43DC8&title_bg=%23616E9F&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <br/><br/>
 👋**Hello! Welcome to my github!!**<br/>
-I'm backend developer using spring boot, jpa, database, docker ...  <br/>
-Recently, I am studying msa, agile, devops, cloud...
+Thank you for visiting my github! Feel free to contact me!!
 <br/><br/><br/>
 <!-- 🛠**Techs that i've used at least once**
 <br/>
