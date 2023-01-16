@@ -32,9 +32,9 @@ Thank you for visiting my github! Feel free to contact me!!
 <a href="[연결할 링크]" target="_blank"><img src="https://img.shields.io/badge/[쓰고 싶은 텍스트]-[컬러 코드]?style=flat&logo=[브랜드 이름]&logoColor=white"/></a>
 -->
 <br/><br/>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devk0ng&show_icons=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devk0ng&show_icons=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
 &nbsp;&nbsp;&nbsp;
-<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hongsbin">
+<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hongsbin"> -->
 <!--
 **devk0ng/devk0ng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
